@@ -3,7 +3,6 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
-  console.log('React Navite App')
   return (
     <View style={styles.container}>
       <Text>Hi, Jeongmu Park!</Text>
